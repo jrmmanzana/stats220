@@ -1,6 +1,8 @@
 # **STATS220**
 ### A repository by Jerem Manzana
 
+<img src="https://github.com/jrmmanzana/stats220/blob/main/My%20photo.JPG" width="200">
+
 This repository contains my outputs for my stats220 paper in the University of Auckland.
 
 **I am currently working on:**
